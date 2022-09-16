@@ -13,7 +13,6 @@ Gabe Lopez
 Max Carlson
 Connor Kriegshauser
 Caden Backstrom
-Charles Kaker
 Kai Kerkow
 Jaden Donabauer
 Anthony Oleinik
@@ -40,6 +39,7 @@ Nathan Kozisek
 Adam Larocque
 Matthew Gabriel
 Tristan Telles
+Charles Kaker
 
 
 # KANSAS STATE
