@@ -21,7 +21,6 @@ Cade Gochenour
 # BAYLOR
 Gavin Ghys
 Ryan Lundin
-Rowan Nevala
 Martin Kline
 Curtis Bragg
 Brodrick Schmidt
@@ -55,3 +54,4 @@ Max Beh
 Thomas Geren
 Jack Cook
 Donnie Bormann
+Rowan Nevala
