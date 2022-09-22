@@ -4,8 +4,6 @@ Doyle Chism
 Max Gula
 Mason Wattleworth
 Joe Burns
-Kory Dunnigan
-Sam Dorfman
 Josh Alexander
 Ethan Campbell
 Thomas Anderson
@@ -23,23 +21,19 @@ Cade Gochenour
 # BAYLOR
 Gavin Ghys
 Ryan Lundin
-Peter Tollefson
 Rowan Nevala
-John Taylor
 Martin Kline
-Zach Schwartz
 Curtis Bragg
-Myles Prodoehl
 Brodrick Schmidt
 Gabe Brewer
 Austin Christen
 Brandon Payment
-Luke Leone
 Nathan Kozisek
 Adam Larocque
 Matthew Gabriel
 Tristan Telles
 Charles Kaker
+Kory Dunnigan
 
 
 # KANSAS STATE
