@@ -23,8 +23,6 @@ Gavin Ghys
 Ryan Lundin
 Martin Kline
 Curtis Bragg
-Brodrick Schmidt
-Gabe Brewer
 Austin Christen
 Brandon Payment
 Nathan Kozisek
@@ -32,10 +30,11 @@ Adam Larocque
 Matthew Gabriel
 Tristan Telles
 Charles Kaker
-Kory Dunnigan
 
 
 # KANSAS STATE
+Gabe Brewer
+Brodrick Schmidt
 Jacob Searce
 Tye Kuechie
 Dominic Wachal
@@ -47,7 +46,6 @@ Cade Johnson
 Gabriel Lopez
 Davis Johnson
 John Van Bergen
-Surya Lemke
 Nathan Monroe
 Tyler Evans
 Max Beh
@@ -55,3 +53,4 @@ Thomas Geren
 Jack Cook
 Donnie Bormann
 Rowan Nevala
+Kory Dunnigan 
